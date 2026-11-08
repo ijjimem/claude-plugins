@@ -1,0 +1,12 @@
+{
+  "name": "avi-web",
+  "description": "AVI-WEB plugins",
+  "owner": { "name": "Aviel Yagudaev", "email": "info@avi-web.com" },
+  "plugins": [
+    {
+      "name": "lebedev-web-design",
+      "source": "./plugins/lebedev-web-design",
+      "description": "Website design and management informed by Art. Lebedev Studio and the Kovodstvo guide"
+    }
+  ]
+}
